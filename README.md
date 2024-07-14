@@ -1,7 +1,7 @@
 # 💫 Hello There!
 My Name is Ameya Sanjanita. You can call me Ameya. <br>
 Know all about me at: <br><br>
-🔭 I’m currently working on Data Analysis using Benford's Law<br>🌱 I’m currently learning SAP<br>💬 Ask me about SQL, Python and Tableau.<br>⚡ Fun fact: I consider Sherlock Holmes to be a Data Analyst!
+🔭 I’m currently working on Data Analysis using Benford's Law<br>🌱 I’m currently learning Generative AI<br>💬 Ask me about SQL, Python and Tableau.<br>⚡ Fun fact: I consider Sherlock Holmes to be a Data Analyst!
 
 
 ## 🌐 Socials:
